@@ -6,3 +6,5 @@ Bu depo yalnızca **Labs Code** masaüstü uygulamasının kurulum dosyalarını
 - **Web sitesi:** https://labs-code-website.vercel.app/
 
 Kurulu uygulama yeni sürümleri buradan kendiliğinden indirir; bu depoda bir şey yapmana gerek yok.
+
+Kurulum dosyaları bu depodaki GitHub Actions iş akışıyla (`.github/workflows/build.yml`) derlenir ve buraya yüklenir.
